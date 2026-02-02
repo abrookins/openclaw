@@ -1,5 +1,5 @@
 {
-  "id": "memory-redis",
+  "id": "openclaw-redis-agent-memory",
   "kind": "memory",
   "uiHints": {
     "serverUrl": {
